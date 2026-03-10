@@ -6,7 +6,7 @@ package com.poo.prjexemplosobrecarga;
 
 /**
  *
- * @author Iftm
+ * @author Marcos
  */
 public class PrjExemploSobrecarga {
 
