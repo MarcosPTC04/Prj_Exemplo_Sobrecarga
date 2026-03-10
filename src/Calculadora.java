@@ -6,11 +6,9 @@ package com.poo.prjexemplosobrecarga;
 
 /**
  *
- * @author Iftm
+ * @author Marcos
  */
-public class Calculado     
-        
-        ra {
+public class Calculadora {
     
     public Calculadora(){
         int valor = 5 + 4;
@@ -43,3 +41,4 @@ public class Calculado
     }
     
 }
+
